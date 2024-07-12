@@ -142,11 +142,10 @@ h1{
     height:auto;
     grid-column: 2/3;
     grid-row: 1/2;
-    margin-top: -3vh;
-    margin-left: 9vw;
+    margin-top: -2.75vh;
+    margin-left: 24vw;
     z-index: -1;
     position: absolute;
-
 }
 ul.aboutBullet{
     display:block;
