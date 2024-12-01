@@ -215,6 +215,7 @@ div.menu{
 }
 .menu:hover .menuIcon img {
     opacity: 0;
+
 }
 .menu:hover .menuExpand {
     top: 0;
